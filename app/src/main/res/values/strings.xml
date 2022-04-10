@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string-array name="header">
+        <item>Header1</item>
+        <item>Header2</item>
+        <item>Header3</item>
+        <item>Header4</item>
+        <item>Header5</item>
+        <item>Header6</item>
+        <item>Header7</item>
+        <item>Header8</item>
+        <item>Header9</item>
+        <item>Header10</item>
+    </string-array>
+
+    <string-array name="text">
+        <item>Text1</item>
+        <item>Text2</item>
+        <item>Text3</item>
+        <item>Text4</item>
+        <item>Text5</item>
+        <item>Text6</item>
+        <item>Text7</item>
+        <item>Text8</item>
+        <item>Text9</item>
+        <item>Text10</item>
+    </string-array>
+</resources>
